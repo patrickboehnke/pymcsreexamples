@@ -6,6 +6,8 @@ name = "pypi"
 [packages]
 jupyter = "*"
 pymc = "*"
+seaborn = "*"
+graphviz = "*"
 
 [dev-packages]
 
